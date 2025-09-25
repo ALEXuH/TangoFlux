@@ -8,7 +8,7 @@ setup(
     install_requires=[
         "torch",
         "torchaudio",
-        "torchlibrosa=",
+        "torchlibrosa",
         "torchvision",
         "transformers",
         "diffusers",
